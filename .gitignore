@@ -4,3 +4,4 @@
 .DS_Store
 customer_rates.pkl
 incremental_activation.pkl
+round1.csv
